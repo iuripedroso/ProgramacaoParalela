@@ -4,7 +4,7 @@ Documentação de estudo:
 
 - https://www.openmp.org/wp-content/uploads/Intro_To_OpenMP_Mattson.pdf
 - https://www.inf.ufrgs.br/erad2018/downloads/minicursos/eradrs2018-mpi-openmp-slides.pdf
-- tps://www.inf.ufsc.br/~bosco.sobral/ensino/ine5645/openmp-intro-v5-1-mai2012-mac.pdf
+- https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5645/openmp-intro-v5-1-mai2012-mac.pdf
 - https://www.openmp.org/resources/refguides/
 - https://people.ohio.edu/elster/phys5071/extras/OpenMPSlides_tamu_sc.pdf
 - https://www.openmp.org/resources/openmp-presentations/
