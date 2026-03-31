@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <omp.h>
 
-// tarefa quicksort_omp.cpp
-
 void swap(int* a, int* b) {
     int temp = *a;
     *a = *b;
