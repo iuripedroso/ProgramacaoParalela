@@ -1,4 +1,4 @@
-⌘ Este repositório contém implementações e experimentos desenvolvidos para o estudo de programação paralela utilizando OpenMP, com foco em compreender como explorar múltiplos núcleos de processamento para melhorar o desempenho de aplicações.
+⌘ Este repositório contém implementações e experimentos desenvolvidos para o estudo de programação paralela utilizando OpenMP em C, com foco em compreender como explorar múltiplos núcleos de processamento para melhorar o desempenho de aplicações.
 
 Documentação de estudo:
 
